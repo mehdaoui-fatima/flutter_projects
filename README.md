@@ -1,6 +1,6 @@
 # Flutter_projects
 
-<a href="https://flutter.dev/"><img src="https://iconflux.com/uploads/article/10-reason-why-choose-flutter-f79-2da7512627.png" title="flutter" alt="flutter" width=500 ></a>
+<a href="https://flutter.dev/"><img src="https://iconflux.com/uploads/article/10-reason-why-choose-flutter-f79-2da7512627.png" title="flutter" alt="flutter" width=700 ></a>
 
 ### Description
 - description will goes here
