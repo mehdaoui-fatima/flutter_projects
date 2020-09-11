@@ -1,6 +1,6 @@
 # Flutter_projects
 
-<a href="https://flutter.dev/"><img src="https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png" title="flutterlogo" alt="flutterLogo" width=400 ></a>
+<a href="https://flutter.dev/"><img src="" title="flutterlogo" alt="flutterLogo" width=400 ></a>
 
 ### Description
 - description will goes here
