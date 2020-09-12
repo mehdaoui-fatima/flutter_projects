@@ -18,14 +18,23 @@
 - Understand all the fundamental concepts of Flutter development
 - Become proficient in one of the fastest growing technologies
 
-## Module 1 - Simple Start
-<img width="35%" alt_module_1 src="my image url">
+## Module 1 - ImRich!
+<img width="39%" alt_module_1 src="./Screens/imRich.jpeg">
 
-## Module 2 -Business Contact
+## Module 2 - miCard
+<img width="39%" alt_module_1 src="./Screens/miCard.jpeg">
 
-## Module 3 - Rolling the Dice
+## Module 3 - dicee
+<img width="39%" alt_module_1 src="./Screens/Dicee.jpeg">
 
-## Module 4 - Ask Me Anything
+## Module 4 - magicBall
+
+<img width="39%" alt_module_1 src="./Screens/magicBall.jpeg">
+
+## Module 5 - xylophone
+
+<img width="39%" alt_module_1 src="./Screens/xylophone.jpeg">
+
 
 
 
