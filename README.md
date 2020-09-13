@@ -21,19 +21,23 @@
 ## Module 1 - ImRich!
 <img width="39%" alt_module_1 src="./Screens/imRich.jpeg">
 
-## Module 2 - miCard
+## Module 2 - MiCard
 <img width="39%" alt_module_1 src="./Screens/miCard.jpeg">
 
-## Module 3 - dicee
+## Module 3 - Dicee
 <img width="39%" alt_module_1 src="./Screens/Dicee.jpeg">
 
-## Module 4 - magicBall
+## Module 4 - MagicBall
 
 <img width="39%" alt_module_1 src="./Screens/magicBall.jpeg">
 
-## Module 5 - xylophone
+## Module 5 - Xylophone
 
 <img width="39%" alt_module_1 src="./Screens/xylophone.jpeg">
+
+## Module 6 - Quizzler
+
+<img width="39%" alt_module_1 src="./Screens/quizzler.jpeg">
 
 
 
